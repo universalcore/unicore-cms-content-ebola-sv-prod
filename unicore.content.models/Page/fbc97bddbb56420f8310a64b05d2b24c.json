@@ -10,8 +10,8 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "6b7731281a414610ba925e22e793eacd", 
   "published": null, 
-  "position": 2, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "como-se-contrae-el-virus-del-zika", 
   "uuid": "fbc97bddbb56420f8310a64b05d2b24c"
